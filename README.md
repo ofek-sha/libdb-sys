@@ -1,3 +1,5 @@
+Forked to add support for aarch64
+
 **Status**
 
 ![CI](https://github.com/fishi0x01/libdb-sys/workflows/CI/badge.svg)
