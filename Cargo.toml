@@ -37,4 +37,4 @@ maintenance = { status = "passively-maintained" }
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.51.1"
+bindgen = "0.69.1"
